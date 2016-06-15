@@ -1,0 +1,26 @@
+.login-form {
+  margin: auto;
+  padding: 20px;
+}
+
+.login-form div {
+  margin-bottom: 10px;
+}
+
+.login-form input {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.login-form label {
+  color: rgb(67, 69, 63);
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#error {
+  color: #9f2505;
+  font-size: 18px;
+  margin: auto;
+}
